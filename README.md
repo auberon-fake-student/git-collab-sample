@@ -7,7 +7,7 @@ Hope it's helpful!
 # Git Cycle
 - git pull
 - make changes
-- add
-- commit
+- add (with git status first)
+- commit (with git status first)
 - pull
 - push 

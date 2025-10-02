@@ -5,9 +5,9 @@ This is a small little example for showing how pushes, pulls and merge conflicts
 Hope it's helpful!
 
 # Git Cycle
-- git pull
+- `git pull`
 - make changes
-- add (with git status first)
-- commit (with git status first)
-- pull
-- push 
+- `git add` (with git status first)
+- `git commit`(with git status first)
+- `git pull`
+- `git push`

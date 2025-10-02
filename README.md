@@ -6,3 +6,8 @@ Hope it's helpful!
 
 # Git Cycle
 - git pull
+- make changes
+- add
+- commit
+- pull
+- push 
